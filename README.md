@@ -1,1 +1,1 @@
-# Quiz_Game_in_Python
+A simple quiz game made in python
